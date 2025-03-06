@@ -1,7 +1,5 @@
 # InterviewAI
 
-### [Live Site](https://interview-ai-chi.vercel.app)
-
 ![InterviewAI](https://res.cloudinary.com/dpwczamws/image/upload/v1721802664/uploads/Screenshot_2024-07-23_185324_p29vyg.png)
 
 ## <a name="introduction">🤖 Introduction</a>
