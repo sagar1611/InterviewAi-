@@ -16,12 +16,7 @@ Interview Preparation Platform
 
 Follow these steps to set up the project locally on your machine
 
-**Cloning the Repository**
 
-```bash
-git clone https://github.com/AnuragSingh012/InterviewAI.git
-cd InterviewAI
-```
 
 **Install dependencies and start the backend**
 
